@@ -1,0 +1,2 @@
+As of rn, there is a bug in Unreal Engine 4.26.0 which does not allow me to render RetainBox's contents properly so for now the Maps app works iffy. I've disable the Retain Render property on all Retainer Boxes for Minimap System (note for myself: didn't affect the retainers in the phone system)
+So, this is just a note for myself, once there is a new build of UE 4.26 available, Andy, please, go back and try to enable those properties back to see if it helps to fix current issues with the map.
