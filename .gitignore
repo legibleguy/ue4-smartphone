@@ -19,6 +19,9 @@
 # Fortran module files
 *.mod
 
+#Fucking zips, i dont need them on my git
+*.zip
+
 # Compiled Static libraries
 *.lai
 *.la
